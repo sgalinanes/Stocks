@@ -1,0 +1,11 @@
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Config\bin\Debug\Config.dll
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Config\bin\Debug\Config.pdb
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Config\obj\Debug\Config.dll
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Config\obj\Debug\Config.pdb
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Config\bin\Debug\Config.dll
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Config\bin\Debug\Config.pdb
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Config\obj\Debug\Config.csprojAssemblyReference.cache
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Config\obj\Debug\Config.dll
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Config\obj\Debug\Config.pdb

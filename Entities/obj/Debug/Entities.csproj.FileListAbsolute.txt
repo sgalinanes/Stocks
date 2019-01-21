@@ -1,0 +1,16 @@
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\bin\Debug\Entities.dll
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\bin\Debug\Entities.pdb
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\bin\Debug\Config.dll
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\bin\Debug\Config.pdb
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.dll
+c:\Users\Usuario\documents\visual studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.pdb
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\bin\Debug\Entities.dll
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\bin\Debug\Entities.pdb
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\bin\Debug\Config.dll
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\bin\Debug\Config.pdb
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.dll
+C:\Users\TIAGO\Documents\Visual Studio 2015\Projects\Stocks\Entities\obj\Debug\Entities.pdb
