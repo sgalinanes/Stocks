@@ -1,3 +1,13 @@
 
 .vs/Stocks/DesignTimeBuild/.dtbcache
 .vs/Stocks/v14/.suo
+.vs/Stocks/v15
+Config/Properties
+Config/bin
+Config/obj
+Entities/Properties
+Entities/bin
+Entities/obj
+Stocks/Properties
+Stocks/bin
+Stocks/obj
