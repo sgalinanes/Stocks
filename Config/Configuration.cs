@@ -11,15 +11,15 @@ namespace Config
     public static class Configuration
     {
         // Connection to database
-        public static string sqlDatabaseName = "stocks";
-        public static string sqlConnection = "Data Source=NOTEBOOK\\SQLEXPRESS; Initial Catalog= " + sqlDatabaseName + ";Integrated Security=SSPI;";
+        public static string sqlDatabaseName = "Stocks";
+        public static string sqlConnection = "data source = localhost\\SQLEXPRESS;initial catalog = Stocks; trusted_connection=true;";
 
 
         // Table containing Names and tickers for each dataSource
         // This "is" the program's database, if the stock is not here, then no information will be available.
-        public static string tableStockTickers = "Stocks_Tickers";
+        public static string tableStockTickers = "Tickers";
         // Portfolio table
-        public static string tablePortfolio = "Markets_Portfolio";
+        public static string tablePortfolio = "Portfolio";
 
         // Data sources         
         public static string dataSourceGoogleName = "Google Finance";
@@ -29,7 +29,7 @@ namespace Config
         public static string dataSourceCurrent = dataSourceGoogleName;
 
         public static string dataSourceGoogleFinance = "http://www.google.com/finance/info?q=";
-        public static string dataSourceGoogleFinanceKeyword = "TickerGF";
+        public static string dataSourceGoogleFinanceKeyword = "Ticker";
         public static string dataSourceYahooFinance = "";
         public static string dataSourceYahooFinanceKeyword = "TickerYF";
         public static string dataSourceOtherFinance = "";

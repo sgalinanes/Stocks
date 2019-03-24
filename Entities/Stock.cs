@@ -71,14 +71,13 @@ namespace Entities
             get { return this.time; }
             set { this.time = value; }
         }
-
         public double Var_dayPorcent
         {
             get { return this.var_dayPorcent;  }
             set { this.var_dayPorcent = value; }
         }
 
-
+        // Methods
         public void AddData(DataTable dt)
         { 
             // Load data into stock attributes.
